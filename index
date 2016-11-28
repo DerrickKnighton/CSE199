@@ -1,4 +1,15 @@
 <html>
-  <body>
-  </body>
+   <title>
+   Derrick's Website
+   </title>
+      <body>
+      Welcome to Derrick Knighton's Website
+      </body>
+      
+       <style>
+       body {
+       background-color:red;
+       color:afff;
+       text-align:center;
+       }
 </html>
